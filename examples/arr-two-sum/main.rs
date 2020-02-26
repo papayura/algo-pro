@@ -1,4 +1,4 @@
-fn main() {
+pub fn main() {
     let nums = [4, 5, 3, 2, 1, 6, 7];
     println!("{}",two_sum(&nums, 12));
 }
